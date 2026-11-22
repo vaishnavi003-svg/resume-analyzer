@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 
 // LIVE RENDER BACKEND URL
-const API_URL = 'https://resume-analyzer-609s.onrender.com';
+const API_URL = 'https://resume-analyzer-api-9rj3.onrender.com';
 
 function App() {
   const [file, setFile] = useState(null);
